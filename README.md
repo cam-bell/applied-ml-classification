@@ -4,7 +4,7 @@
 
 This repository contains end-to-end classification case studies focused on evaluation discipline, handling class imbalance, and practical model selection. The notebooks demonstrate reproducible pipelines, sensible metrics for imbalanced settings, and short write-ups that capture modelling judgment (not just leaderboard results).
 
-## Why this repo is useful for recruiters
+## Why this repo is useful
 
 - Compact, focused case studies that each follow a reproducible pipeline.
 - Emphasis on evaluation and modelling trade-offs (precision/recall/F1, ROC-AUC).
